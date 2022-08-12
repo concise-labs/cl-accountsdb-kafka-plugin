@@ -1,0 +1,6 @@
+.DS_Store
+/target
+Cargo.lock
+.idea/
+*.json
+!example-config.json
