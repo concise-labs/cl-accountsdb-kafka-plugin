@@ -1,5 +1,7 @@
 # ConciseLabs AccountsDB Plugin for Kafka
 
+This is a modified version of the kafka plugin originally built by Blockdaemon. Original repo can be found [here](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka).
+
 Kafka publisher for use with Solana's [plugin framework](https://docs.solana.com/developing/plugins/geyser-plugins).
 
 ## Installation
